@@ -78,27 +78,33 @@ DELETE	/movies/:id	Delete movie
 📸 Screenshots
 
 Server Check
+<img width="1280" height="832" alt="start" src="https://github.com/user-attachments/assets/fe460d4b-6264-4a12-a887-7f98308993a3" />
 
 
 
 Create Movie
 
+<img width="1280" height="832" alt="add" src="https://github.com/user-attachments/assets/1b3e30b5-ea72-48b2-ba39-cd5810033332" />
 
 
 Get All Movies
+<img width="1280" height="832" alt="get all" src="https://github.com/user-attachments/assets/78a475c4-ecb3-4a4f-832a-e4766e4747ea" />
 
 
 
 Get Movie by ID
+<img width="1280" height="832" alt="get by id" src="https://github.com/user-attachments/assets/3839800f-bbec-4a95-a403-f46533491cf1" />
 
 
 
 Update Movie
 
+<img width="1280" height="832" alt="update" src="https://github.com/user-attachments/assets/e5943650-adc2-4d43-9077-90f1ce6f21fe" />
 
 
 Delete Movie
 
+<img width="1280" height="832" alt="delete" src="https://github.com/user-attachments/assets/76d3cc31-b869-4239-b8eb-ce4fcb379d2e" />
 
 ```
 📦 Movie Data Example
